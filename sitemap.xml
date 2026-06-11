@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://anythinc.com/</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://anythinc.com/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://anythinc.com/?lang=ar"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://anythinc.com/?lang=fr"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://anythinc.com/?lang=es"/>
+  </url>
+
+  <!-- Static pages -->
+  <url><loc>https://anythinc.com/about</loc><lastmod>2025-06-01</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://anythinc.com/contact</loc><lastmod>2025-06-01</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://anythinc.com/products</loc><lastmod>2025-06-01</lastmod><changefreq>daily</changefreq><priority>0.9</priority></url>
+
+  <!-- Categories -->
+  <url><loc>https://anythinc.com/category/software</loc><lastmod>2025-06-01</lastmod><changefreq>weekly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://anythinc.com/category/ebooks</loc><lastmod>2025-06-01</lastmod><changefreq>weekly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://anythinc.com/category/design</loc><lastmod>2025-06-01</lastmod><changefreq>weekly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://anythinc.com/category/services</loc><lastmod>2025-06-01</lastmod><changefreq>weekly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://anythinc.com/category/gaming</loc><lastmod>2025-06-01</lastmod><changefreq>weekly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://anythinc.com/category/ai</loc><lastmod>2025-06-01</lastmod><changefreq>weekly</changefreq><priority>0.85</priority></url>
+
+  <!-- Product Pages -->
+  <url><loc>https://anythinc.com/product/ultimate-productivity-bundle</loc><lastmod>2025-06-01</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://anythinc.com/product/python-automation-scripts-pack</loc><lastmod>2025-06-01</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://anythinc.com/product/wordpress-plugin-collection</loc><lastmod>2025-06-01</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://anythinc.com/product/digital-marketing-mastery-guide</loc><lastmod>2025-06-01</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://anythinc.com/product/freelance-success-blueprint</loc><lastmod>2025-06-01</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://anythinc.com/product/brand-identity-kit-pro</loc><lastmod>2025-06-01</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://anythinc.com/product/social-media-template-mega-pack</loc><lastmod>2025-06-01</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://anythinc.com/product/premium-icon-pack-5000</loc><lastmod>2025-06-01</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://anythinc.com/product/seo-starter-kit-2025</loc><lastmod>2025-06-01</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://anythinc.com/product/email-marketing-campaign-pack</loc><lastmod>2025-06-01</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://anythinc.com/product/ultimate-fps-strategy-guide</loc><lastmod>2025-06-01</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://anythinc.com/product/game-streaming-starter-pack</loc><lastmod>2025-06-01</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://anythinc.com/product/chatgpt-mega-prompt-library</loc><lastmod>2025-06-01</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://anythinc.com/product/ai-automation-workflow-templates</loc><lastmod>2025-06-01</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://anythinc.com/product/midjourney-prompt-masterclass</loc><lastmod>2025-06-01</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+
+  <!-- Blog -->
+  <url><loc>https://anythinc.com/blog</loc><lastmod>2025-06-01</lastmod><changefreq>weekly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://anythinc.com/blog/best-digital-products-2025</loc><lastmod>2025-05-20</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://anythinc.com/blog/ai-prompts-guide</loc><lastmod>2025-05-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://anythinc.com/blog/notion-templates-productivity</loc><lastmod>2025-05-15</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://anythinc.com/blog/sell-digital-products-online</loc><lastmod>2025-05-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://anythinc.com/blog/midjourney-art-business</loc><lastmod>2025-05-10</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://anythinc.com/blog/email-marketing-templates</loc><lastmod>2025-05-08</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://anythinc.com/blog/freelance-tools-2025</loc><lastmod>2025-05-05</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://anythinc.com/blog/seo-resources-guide</loc><lastmod>2025-05-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://anythinc.com/blog/game-streaming-guide</loc><lastmod>2025-04-30</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://anythinc.com/blog/python-automation-business</loc><lastmod>2025-04-28</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://anythinc.com/blog/brand-identity-importance</loc><lastmod>2025-04-25</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://anythinc.com/blog/make-automation-workflows</loc><lastmod>2025-04-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+</urlset>

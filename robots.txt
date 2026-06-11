@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+# Disallow admin or private paths (add if needed)
+# Disallow: /admin/
+
+Sitemap: https://anythinc.com/sitemap.xml
+
+# Crawl-delay for bots that respect it
+Crawl-delay: 1
